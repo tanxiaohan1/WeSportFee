@@ -1,0 +1,24 @@
+@import "../../../../../style/public/comm_box_list.wxss";
+@import "../../../style/skin.wxss";
+
+.comm-list-box .item-leftbig1 .leftbig-left {
+	border-bottom: 2rpx solid var(--projectCompareColor)
+}
+
+.comm-list-box .item.item-leftbig1 {
+	background-color: #222 !important;
+}
+
+.comm-list-box .item-leftbig1 .leftbig-right .leftbig-title {
+	color: #fff;
+	font-size: 28rpx;
+	margin-bottom: 10rpx;
+}
+
+.comm-list-box .item-leftbig1 .leftbig-desc {
+	color: #aaa;
+}
+
+.comm-list-box .item-leftbig1 .leftbig-right .bottom-status {
+	color: #888;
+}
